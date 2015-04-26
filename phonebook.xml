@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:phoneBook xmlns:ns2="http://tscholze.github.io">
+    <entry>
+        <lastName>Scholze</lastName>
+        <name>Tobias</name>
+        <phoneNumber>0821 45096800</phoneNumber>
+    </entry>
+    <entry>
+        <lastName>Doe</lastName>
+        <name>John</name>
+        <phoneNumber>000 111222333</phoneNumber>
+    </entry>
+</ns2:phoneBook>
